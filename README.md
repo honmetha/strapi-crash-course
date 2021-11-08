@@ -1,5 +1,7 @@
 # Strapi Crash Course
 
+![Course Introduction](./images/course-intro.png)
+
 ## 📖 Chapters
 
 1. Intro & Setup
