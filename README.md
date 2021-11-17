@@ -1,6 +1,7 @@
 # Strapi Crash Course
 
 ![Course Introduction](./images/course-intro.png)
+![Demo](./images/demo.png)
 
 ## 📖 Chapters
 
